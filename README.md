@@ -16,9 +16,9 @@
 ## Assignments
 
 ### Assignment #1
-
-|**Name** | Hello World |\n
-| **Description** | A basic hello world program |\n
+|:---|:---|
+|**Name** | Hello World |
+| **Description** | A basic hello world program |
 | **Due Date** | 30-January-2023 |
 | **Status** | Done |
 | **Location** | https://github.com/Reizarf/ML-sdfrazier |
