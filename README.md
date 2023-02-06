@@ -21,8 +21,6 @@
 
 ### Assignment #1
 
-| Name | Value |
-| :--- | :--- |
 | Name | Hello World |
 | Description | A basic hello world program |
 | Due Date | 30-January-2023 |
@@ -30,4 +28,14 @@
 | Location | https://github.com/Reizarf/ML-sdfrazier |
 | Self Grade | 100/100 |
 | Notes | Simple Hello World Program in Python |
+
+### Assignment #2
+
+| Name | Python Fundamentals and Quizzes |
+| Description | Screenshots of before/after quizzes |
+| Due Date | 13-February-2023 |
+| Status | Done |
+| Location | https://github.com/Reizarf/ML-sdfrazier/review |
+| Self Grade | 100/100 |
+| Notes | Screenshots under each folder |
 
