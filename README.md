@@ -27,11 +27,13 @@
 
 ### Assignment #2
 
+| Name | Value |
+| :--- | :--- |
 | Name | Python Fundamentals and Quizzes |
 | Description | Screenshots of before/after quizzes |
-| Due Date | 13-February-2023 |
-| Status | Done |
-| Location | https://github.com/Reizarf/ML-sdfrazier/review |
-| Self Grade | 100/100 |
-| Notes | Screenshots under each folder |
+| Due Date | 13-Feb-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/OOP-sdfrazier/review |
+| Self Grade | 100 |
+| Notes | screenshots in each folder |
 
