@@ -1,11 +1,7 @@
 # ML-sdfrazier
 
 ## Submitted:
-### Hello.py
-
-# csci000-astudent
-
-## A sample github repo demonstrating how to turn in assignments and labs
+### Hello.py,A1-PythonReview
 
 | Name | Value |
 |:---|:---|
