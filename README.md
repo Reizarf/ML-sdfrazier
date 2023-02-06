@@ -17,13 +17,13 @@
 
 ### Assignment #1
 
-###| Name | Hello World |\n
-###| Description | A basic hello world program |\n
-###| Due Date | 30-January-2023 |
-###| Status | Done |
-###| Location | https://github.com/Reizarf/ML-sdfrazier |
-###| Self Grade | 100/100 |
-###| Notes | Simple Hello World Program in Python |
+|**Name** | Hello World |\n
+| **Description** | A basic hello world program |\n
+| **Due Date** | 30-January-2023 |
+| **Status** | Done |
+| **Location** | https://github.com/Reizarf/ML-sdfrazier |
+| **Self Grade** | 100/100 |
+| **Notes** | Simple Hello World Program in Python |
 
 ### Assignment #2
 
