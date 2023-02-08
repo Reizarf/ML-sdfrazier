@@ -1,11 +1,7 @@
 # ML-sdfrazier
 
 ## Submitted:
-### Hello.py
-
-# csci000-astudent
-
-## A sample github repo demonstrating how to turn in assignments and labs
+### Hello.py,A1-PythonReview
 
 | Name | Value |
 |:---|:---|
@@ -20,14 +16,24 @@
 ## Assignments
 
 ### Assignment #1
+|:---|:---|
+|**Name** | Hello World |
+| **Description** | A basic hello world program |
+| **Due Date** | 30-January-2023 |
+| **Status** | Done |
+| **Location** | https://github.com/Reizarf/ML-sdfrazier |
+| **Self Grade** | 100/100 |
+| **Notes** | Simple Hello World Program in Python |
+
+### Assignment #2
 
 | Name | Value |
 | :--- | :--- |
-| Name | Hello World |
-| Description | A basic hello world program |
-| Due Date | 30-January-2023 |
-| Status | Done |
-| Location | https://github.com/Reizarf/ML-sdfrazier |
-| Self Grade | 100/100 |
-| Notes | Simple Hello World Program in Python |
+| Name | Python Fundamentals and Quizzes |
+| Description | Screenshots of before/after quizzes |
+| Due Date | 13-Feb-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/OOP-sdfrazier/review |
+| Self Grade | 100 |
+| Notes | screenshots in each folder |
 
