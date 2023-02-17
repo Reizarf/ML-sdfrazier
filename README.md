@@ -37,3 +37,10 @@
 | Self Grade | 100 |
 | Notes | screenshots in each folder |
 
+| Name | Python Basics and Pandas on Kaggle |
+| Description | Screenshots of completion certificates |
+| Due Date | 20-Feb-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/OOP-sdfrazier/pandas
+| Self Grade | 100 |
+| Notes | Screenshots placed in pandas folder|
