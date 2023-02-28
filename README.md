@@ -37,6 +37,8 @@
 | Self Grade | 100 |
 | Notes | screenshots in each folder |
 
+| Name | Value |
+| :--- | :--- |
 | Name | Python Basics and Pandas on Kaggle |
 | Description | Screenshots of completion certificates |
 | Due Date | 20-Feb-2023 |
@@ -46,7 +48,8 @@
 | Notes | Screenshots placed in pandas folder|
 
 ### Assignment 3
-
+| Name | Value |
+| :--- | :--- |
 | Name | Data Visualization |
 | Description | Kaggle course completion certificate |
 | Due Date | 27-Feb-2023 |
