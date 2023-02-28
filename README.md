@@ -16,7 +16,8 @@
 ## Assignments
 
 ### Assignment #1
-|:---|:---|
+| Name | Value |
+| :--- | :--- |
 |**Name** | Hello World |
 | **Description** | A basic hello world program |
 | **Due Date** | 30-January-2023 |
