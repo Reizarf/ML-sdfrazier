@@ -33,7 +33,7 @@
 | Description | Screenshots of before/after quizzes |
 | Due Date | 13-Feb-2023 |
 | Status | Complete |
-| Location | https://github.com/Reizarf/OOP-sdfrazier/review |
+| Location | https://github.com/Reizarf/ML-sdfrazier/review |
 | Self Grade | 100 |
 | Notes | screenshots in each folder |
 
@@ -44,3 +44,13 @@
 | Location | https://github.com/Reizarf/OOP-sdfrazier/pandas
 | Self Grade | 100 |
 | Notes | Screenshots placed in pandas folder|
+
+### Assignment 3
+
+| Name | Data Visualization |
+| Description | Kaggle course completion certificate |
+| Due Date | 27-Feb-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/ML-sdfrazier/visualization |
+| Self Grade | 100 |
+| Notes |
