@@ -49,3 +49,14 @@
 | Location | https://github.com/Reizarf/ML-sdfrazier/visualization |
 | Self Grade | 100 |
 | Notes |
+
+### Assignment 4
+| Name | Value |
+| :--- | :--- |
+| Name | Models |
+| Description | Kaggle course completion certificate |
+| Due Date | 13-March-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/ML-sdfrazier/models |
+| Self Grade | 100 |
+| Notes X |
