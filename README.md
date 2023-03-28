@@ -60,3 +60,14 @@
 | Location | https://github.com/Reizarf/ML-sdfrazier/models |
 | Self Grade | 100 |
 | Notes X |
+
+### Assignment 5
+| Name | Value |
+| :--- | :--- |
+| Name | ModelExplainability |
+| Description | Kaggle course completion certificate |
+| Due Date | 20-March-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/ML-sdfrazier/explain |
+| Self Grade | 100 |
+| Notes X |
