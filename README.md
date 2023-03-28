@@ -71,3 +71,14 @@
 | Location | https://github.com/Reizarf/ML-sdfrazier/explain |
 | Self Grade | 100 |
 | Notes X |
+
+### Assignment 6
+| Name | Value |
+| :--- | :--- |
+| Name | Feature Engineering |
+| Description | Kaggle course completion certificate |
+| Due Date | 27-March-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/ML-sdfrazier/features |
+| Self Grade | 100 |
+| Notes X |
