@@ -82,3 +82,14 @@
 | Location | https://github.com/Reizarf/ML-sdfrazier/features |
 | Self Grade | 100 |
 | Notes X |
+
+### Assignment 7
+| Name | Value |
+| :--- | :--- |
+| Name | Time-Series |
+| Description | Kaggle course completion certificate |
+| Due Date | 28-March-2023 |
+| Status | Complete |
+| Location | https://github.com/Reizarf/ML-sdfrazier/time-series |
+| Self Grade | 100 |
+| Notes X |
